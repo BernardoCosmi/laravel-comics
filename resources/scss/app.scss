@@ -1,11 +1,18 @@
 /*resources/scss/app.scss*/
 @import "bootstrap/scss/bootstrap";
 
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     font-family: sans-serif;
+}
+
+.container-fluid.hero {
+    height: 320px;
+    background-image: url(images/jumbotron.jpg );
+    background-size: cover;
 }

@@ -42,7 +42,7 @@
     </div>
 </div>
 
-<style>
+<style scoped>
     .container {
         display: flex;
         margin: 0 auto;

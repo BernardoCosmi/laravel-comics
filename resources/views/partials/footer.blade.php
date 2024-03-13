@@ -14,7 +14,7 @@
     </div>
 </div>
 
-<style>
+<style scoped>
 
 .bg-container {
   background-color: #303030;
