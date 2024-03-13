@@ -4,7 +4,7 @@
             sign-up now!
         </span>
         <div class="icon-container">
-            <span>follow us</span>
+            <span class="follow-us">follow us</span>
             <img src="{{ asset('images/footer-facebook.png') }}" alt="">
             <img src="{{ asset('images/footer-twitter.png') }}" alt="">
             <img src="{{ asset('images/footer-youtube.png') }}" alt="">
@@ -31,7 +31,7 @@
   align-items: center;
 }
 
-span {
+.follow-us {
   text-transform: uppercase;
   background-color: #303030;
   border: 2px solid #0282F9;
