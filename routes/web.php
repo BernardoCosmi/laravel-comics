@@ -16,8 +16,7 @@ use App\Http\Controllers\Home\WelcomeController as WelcomeController;
 */
 
 Route::get('/', function () {
-
-    return view('pages.welcome');
-})->name('homePage');
+    return view('layouts.app');
+});
 
 
