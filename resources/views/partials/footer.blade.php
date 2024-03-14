@@ -1,6 +1,6 @@
 <div class="bg-container">
     <div class="footer-container">
-        <span>
+        <span class="follow-us">
             sign-up now!
         </span>
         <div class="icon-container">
